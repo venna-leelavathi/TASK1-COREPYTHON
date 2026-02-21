@@ -53,6 +53,64 @@ An Armstrong number is a number where the sum of the cubes of its digits is equa
 The program extracts each digit using modulo and division, calculates the cube, and adds it to a sum.
 If the final sum is equal to the original number, it is an Armstrong number.
 
+
+
+Task2  :-
+==========
+
+TITLE NAME:EXPENSE TRACKER(Command-Line Application)
+
+TASK NO   :2
+
+NAME      :Venna Leelavathi
+
+INTERN ID :MT2499
+
+DOMAIN    :Python Programming
+
+COMPANY NAME:Maincrafts Technology
+
+Project Description :
+
+ Expense Tracker (Command-Line Application)
+In this task, i will apply your Python basics to build a real-world mini project — an Expense Tracker CLI application.
+This project helps to understand how Python is used in practical applications by allowing users to manage daily expenses using the command line.
+🎯 Objective
+Build a Python Command-Line Expense Tracker that can:
+✅ Take user input for expenses (description + amount)
+✅ Save data into a CSV file (expenses.csv)
+✅ Read and display saved expenses
+✅ Calculate the total amount spent
+
+🛠 What You Will Build
+Your program should allow the user to:
+Add an Expense
+Enter expense description
+Enter expense amount
+View All Expenses
+Display all stored expenses from the CSV file
+View Total Spent
+Calculate and show the total of all expenses
+Store Data in a CSV File
+All data must be saved in expenses.csv
+Use Functions
+Organize the program using Python functions
+
+📚 Why This Project Is Important
+
+Helps you understand file handling (read/write operations)
+Teaches how to structure Python programs using functions
+Simulates real-world applications like expense management apps
+Improves problem-solving and coding logic
+
+🎁 Final Deliverable
+
+A working Python CLI Expense Tracker that can:
+Add expenses
+Display expenses
+Calculate total expenses
+Store and retrieve data from a CSV file
+If you want, I can also give you a complete working version with menu options (1-Add, 2-View, 3-Total, 4-Exit) 
  
 
 
