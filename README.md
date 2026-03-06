@@ -75,7 +75,8 @@ Project Description :
  Expense Tracker (Command-Line Application)
 In this task, i will apply your Python basics to build a real-world mini project — an Expense Tracker CLI application.
 This project helps to understand how Python is used in practical applications by allowing users to manage daily expenses using the command line.
-🎯 Objective
+ Objective:
+ ============
 Build a Python Command-Line Expense Tracker that can:
 ✅ Take user input for expenses (description + amount)
 ✅ Save data into a CSV file (expenses.csv)
@@ -96,14 +97,14 @@ All data must be saved in expenses.csv
 Use Functions
 Organize the program using Python functions
 
-📚 Why This Project Is Important
+ Why This Project Is Important:
 
 Helps you understand file handling (read/write operations)
 Teaches how to structure Python programs using functions
 Simulates real-world applications like expense management apps
 Improves problem-solving and coding logic
 
-🎁 Final Deliverable
+ Final Deliverable:
 
 A working Python CLI Expense Tracker that can:
 Add expenses
@@ -111,6 +112,19 @@ Display expenses
 Calculate total expenses
 Store and retrieve data from a CSV file
 If you want, I can also give you a complete working version with menu options (1-Add, 2-View, 3-Total, 4-Exit) 
- 
+
+
+   TASK3:
+   =====
+
+   1. Objective of Task
+
+In Task-2 I created an Expense Tracker that stores expenses in a CSV file.
+In Task-3, I improve it by adding:
+Category for each expense (Food, Travel, Shopping, etc.)
+Search expenses by category
+Calculate total spent per category
+Calculate monthly spending
+This helps practice data handling, filtering, and calculations in Python.
 
 
